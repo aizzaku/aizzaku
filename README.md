@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @aizzaku
-- 👀 I’m interested in graphics designing 
+- Hi, I’m aizzaku
 
 
